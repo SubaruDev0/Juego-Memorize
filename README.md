@@ -47,5 +47,5 @@ Las contribuciones son bienvenidas. Si deseas mejorar el juego o solucionar alg√
 
 ## Autor
 - **Nombre:** Javier Morales Subaru
-- **GitHub:** https://github.com/SubaruProj
+- **GitHub:** https://github.com/SubaruDev0
 
